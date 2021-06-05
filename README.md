@@ -19,7 +19,7 @@ Six tables were created with the following relationships:
   * Title 
 * Employees
   * Employee Number (Primary key)
-  * Employee Title ID (Foreign key, references Titles(Title ID)
+  * Employee Title ID (Foreign key, references Titles(Title ID))
   * Birth Date
   * First Name
   * Last Name
